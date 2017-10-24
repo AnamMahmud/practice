@@ -34,6 +34,8 @@ int* InputFunction(int n, int arr[n]){
 int main() {
     
     pair *pA;
+    //chaning for testig
+    // unnecessary comments
     int t,n,i;
     scanf("%d",&t);
 while(t--){
